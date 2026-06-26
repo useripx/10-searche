@@ -174,14 +174,23 @@ Anda berkata: Apa itu Python
 | Environment | Virtual Environment (`myenv`) |
 | Platform | Windows |
 
-## 👤 Author
+## 👤 Author & Kontak
 
-**Yogi Ario**
+**Yogi Ario Pratama**
+
+Jika Anda memiliki pertanyaan seputar kode ini atau ingin berdiskusi, silakan hubungi saya melalui WhatsApp:
+📱 **[Chat via WhatsApp (wa.me/6281358113087)](https://wa.me/6281358113087)**
 
 ---
 
+### 💖 Donasi
+Dukungan Anda sangat berarti agar saya dapat terus semangat belajar dan mengembangkan proyek-proyek open-source lainnya. Jika berkenan memberikan donasi/apresiasi, Anda dapat menyalurkannya melalui:
+
+💳 **Bank Seabank**
+- No Rekening: **901497113744**
+- Atas Nama: **Yogi Ario Pratama**
+
 <div align="center">
-
-*Proyek Mata Kuliah — Semester 1 — Teknik Informatika UNP*
-
+  <br>
+  <em>Terima kasih atas kunjungannya. Proyek Mata Kuliah — Semester 1 — Teknik Informatika UNP</em>
 </div>
